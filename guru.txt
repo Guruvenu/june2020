@@ -1,0 +1,9 @@
+this is for test:
+A:wq
+:wq
+
+D
+D
+D
+C
+
